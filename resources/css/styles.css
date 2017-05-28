@@ -22,6 +22,11 @@ nav li {
   margin: 16px 0;
 }
 
+.nav {
+  color: white;
+  font-size: 18px;
+}
+
  nav a {
   font-size: 18px;
   color: white;
@@ -42,4 +47,33 @@ p img {
 div h3,
 div p {
   text-align: center;
+}
+
+.portfolio {
+  background-image: url("../img/the-flatiron-building.png");
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+
+
+footer p {
+  text-align: left;
+  background-color: dimgray;
+  font-size: 11px;
+  color: white;
+}
+footer nav {
+  margin-left: 30px;
+}
+
+footer nav ul li {
+  display: inline-block;
+
+}
+
+footer nav a {
+  font-size: 18px;
+  color: white;
 }
